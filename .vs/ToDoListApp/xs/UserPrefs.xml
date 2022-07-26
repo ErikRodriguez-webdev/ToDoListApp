@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A408ED56-14F6-4B3B-897F-EE1F76EA44AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/ToDoList.cs">
+    <Files>
+      <File FileName="Models/ToDoList.cs" Line="10" Column="44" />
+      <File FileName="Controllers/ToDoController.cs" Line="103" Column="14" />
+      <File FileName="Views/ToDo/Index.cshtml" Line="33" Column="9" />
+      <File FileName="Views/ToDo/Create.cshtml" Line="27" Column="27" />
+      <File FileName="Views/ToDo/Edit.cshtml" Line="28" Column="20" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="37" Column="41" />
+      <File FileName="Infrastructure/ToDoContext.cs" Line="15" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoListApp" expanded="True">
+            <Node name="ToDoListApp" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ToDoListApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
