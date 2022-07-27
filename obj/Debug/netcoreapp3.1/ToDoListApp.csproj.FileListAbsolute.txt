@@ -142,6 +142,7 @@
 /Users/erikrodriguez/Projects/ToDoListApp/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/erikrodriguez/Projects/ToDoListApp/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/erikrodriguez/Projects/ToDoListApp/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/erikrodriguez/Projects/ToDoListApp/obj/Debug/netcoreapp3.1/ToDoListApp.csproj.AssemblyReference.cache
 /Users/erikrodriguez/Projects/ToDoListApp/obj/Debug/netcoreapp3.1/ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
 /Users/erikrodriguez/Projects/ToDoListApp/obj/Debug/netcoreapp3.1/ToDoListApp.AssemblyInfoInputs.cache
 /Users/erikrodriguez/Projects/ToDoListApp/obj/Debug/netcoreapp3.1/ToDoListApp.AssemblyInfo.cs
